@@ -18,15 +18,9 @@ This device periodically measures the water content in the soil by using moistur
 ## Setup
 * [Circuit Diagram](https://github.com/iparedes314/SIP/blob/master/Circuit%20Diagram.jpg)
 
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
+## Code
+* [Main](https://github.com/iparedes314/SIP/blob/master/main.py)
 
 ## Authors
 
 * **Isabel Paredes**
-
