@@ -16,7 +16,7 @@ This device periodically measures the water content in the soil by using moistur
 * Tubing
 
 ## Setup
-
+* [Circuit Diagram](https://github.com/iparedes314/SIP/blob/master/Circuit%20Diagram.jpg)
 
 
 ## Built With
